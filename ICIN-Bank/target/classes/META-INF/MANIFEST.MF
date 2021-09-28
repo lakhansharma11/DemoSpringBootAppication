@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: ICIN-Bank
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pranjaltalukdar
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_252
+Implementation-URL: https://spring.io/projects/spring-boot/ICIN-Bank
+Created-By: Maven Integration for Eclipse
+
